@@ -2,7 +2,7 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
 // file imports (Components first and then the stylings)
-import "../../3. Styles/2. AboutPage/AboutPage.css";
+import "./about.css";
 // Class based page
 class About extends Component {
  constructor(props) {

@@ -3,7 +3,7 @@ import { useState } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { motion } from "framer-motion";
 // file imports (Components first and then the stylings)
-import "../../3. Styles/1. HomePage/homePage.css";
+import "./home.css";
 // Functional component
 const Home = () => {
  let [tempData, setTempData] = useState("Home Page");
