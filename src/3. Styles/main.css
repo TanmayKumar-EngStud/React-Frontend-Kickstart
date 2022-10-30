@@ -1,0 +1,28 @@
+* {
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+body {
+ position: relative;
+
+ width: 100vw;
+ min-height: 100vh;
+
+ font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+ font-size: 1em;
+
+ background: linear-gradient(245deg, rgb(229, 220, 220), white);
+}
+#root {
+ display: flex;
+ position: relative;
+}
+/* My nomenclature for styling is: 
+1st. define the display and the positioning.
+2nd. the Height and width
+3rd. some other miscellenious styling 
+4th. define the background.
+5th. define the padding, border and margin
+6th. define the animation.
+*/

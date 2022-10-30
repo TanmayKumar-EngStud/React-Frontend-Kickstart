@@ -1,0 +1,13 @@
+.homePage {
+ display: block;
+ text-align: center;
+}
+
+/* My nomenclature for styling is: 
+1st. define the display and the positioning.
+2nd. the Height and width
+3rd. some other miscellenious styling 
+4th. define the background.
+5th. define the padding, border and margin
+6th. define the animation.
+*/
