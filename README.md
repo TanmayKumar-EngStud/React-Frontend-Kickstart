@@ -32,6 +32,7 @@ How it will help me? Well here are the list of things which will benifit you for
 7. Redux's storage has two data sections which are having all the general/ideal reducers inside it.
 8. Directories are organized before hand in such a way that it will be easy to scale at the time of project creation.
 9. In every repository I will add more readme files, which will guide in understanding the uniformity and will also help you in maintaining it.
+10. Fontawesome version 6.2.0 is added, you can directly use all the free fontawesome icons.
 
 ### Cons:
 
